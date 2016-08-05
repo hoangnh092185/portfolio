@@ -19,8 +19,12 @@ margin-right: 0;
 
 }
 
-.climber1 {
+.climber {
   text-align: right;
   width: 50%;
   height: auto;
+}
+
+p.climber {
+  text-align: center;
 }
