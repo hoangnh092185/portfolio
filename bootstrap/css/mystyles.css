@@ -1,5 +1,6 @@
 .container {
-margin: 0;
+margin-left: 0;
+margin-right: 0;
 }
 
 .about-me {
@@ -16,4 +17,10 @@ margin: 0;
 
 .contacts {
 
+}
+
+.climber1 {
+  text-align: right;
+  width: 50%;
+  height: auto;
 }
