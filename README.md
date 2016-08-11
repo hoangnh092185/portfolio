@@ -16,4 +16,4 @@ _Element used: html, css, bootrap._
 
 https://github.com/hoangnh092185/portfolio
 
-Copyright (c) 2016 by Nhat Hoang
+Copyright &copy; 2016 by Nhat Hoang
