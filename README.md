@@ -8,8 +8,9 @@ A biography web page which allow user to switch click on content and be routed t
 
 ### Setup/install
 
-_Git clone this repository <https://github.com/hoangnh092185/portfolio>._
-_Atom_
+`Git clone this repository <https://github.com/hoangnh092185/portfolio>.`
+
+`Atom`
 
 you should be able to open this repository with any web browser.
 
