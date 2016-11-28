@@ -4,17 +4,17 @@ by _Nhat Hoang 08.05.2016_
 
 ### Description
 
-Using technique with HTML, CSS, and Bootstrap elements to create a personal webpage.
+A biography web page which allow user to switch click on content and be routed to it respective webpage. The goal is to incorperate various web developement elements to the web pages such as: HTML, css, and bootstrap.
 
-### Setup
+### Setup/install
 
-_Download/copy latest bootstrap version to the directory file._
-_Used Atom program to start project._
-_Element used: html, css, bootrap._
+_Git clone this repository <https://github.com/hoangnh092185/portfolio>._
+_Atom_
+
+you should be able to open this repository with any web browser.
 
 ### Link
 
 https://github.com/hoangnh092185/portfolio
-https://github.com/hoangnh092185/portfolio/branches
 
 Copyright &copy; 2016 by Nhat Hoang
